@@ -29,7 +29,7 @@ links:
 
 
 widgets:
-- search
+#- search
 - category
 - tagcloud
 - recent_posts  
