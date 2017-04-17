@@ -1,0 +1,57 @@
+slogan: "Be a lazy guy..."
+
+theme: bootstrap
+inverse: true
+
+menu:
+  - title: 归档
+    url: archives
+    intro: "All the articles."
+    icon: "fa fa-archive"
+  - title: 分类
+    url: categories
+    intro: "All the categories."
+    icon: "fa fa-folder"
+  - title: 标签
+    url: tags
+    intro: "All the tags."
+    icon: "fa fa-tags"
+  - title: 关于
+    url: about
+    intro: "About me."
+    icon: "fa fa-user"
+
+links:
+  - title: "My Github"
+    url: http://www.github.com/chaosddp
+    intro: "My Github account."
+    icon: "fa fa-github"
+
+
+widgets:
+- search
+- category
+- tagcloud
+- recent_posts  
+- links
+
+rss: 
+fancybox: true
+favicon: favicon.ico
+duoshuo_shortname:
+
+# Analytics
+google_analytics:
+  enable: false
+  siteid:
+baidu_tongji:
+  enable: false
+  siteid:
+
+# search
+# swiftype_key: ZP2ZSuHgipSZfRyU8uTR
+
+# share widgets
+bdshare: true
+jiathis: false
+
