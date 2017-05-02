@@ -71,3 +71,9 @@ deploy:
   type: git
   repo: https://github.com/chaosddp/chaosddp.github.io.git
   branch: master
+
+# Disqus
+#disqus_shortname: chaos-note
+
+# UYan
+uyan_uid: 2131906
